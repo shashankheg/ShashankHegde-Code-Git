@@ -23,10 +23,9 @@ This project aims to automate the process of extracting faculty information from
 ## Installation:
 To use this project, follow these steps:
 
-1. Clone the repository:
- git clone https://github.com/kavimiya/Project_.git
 
-2. Install the required libraries:
+
+ Install the required libraries:
 
 pip install -r requirements.txt
 
