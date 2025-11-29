@@ -14,3 +14,6 @@ six==1.16.0
 threadpoolctl==2.2.0
 Werkzeug==2.0.1
 gunicorn==20.1.0
+gradio==5.25.0
+transformers 
+accelerate>=0.26.0
